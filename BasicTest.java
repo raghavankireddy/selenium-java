@@ -22,8 +22,8 @@ import static org.junit.Assert.*;
 
 class BasicTest {
 
-    static String username = "user%40email.com"; // Your username
-    static String authkey = "12345";  // Your authkey
+    static String username = "raghav.devops@gmail.com"; // Your username
+    static String authkey = "u3c3052d1abfa290";  // Your authkey
     String testScore = "unset";
 
     public static void main(String[] args) throws Exception {
